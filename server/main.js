@@ -4,7 +4,7 @@ Meteor.startup(() => {
 	// Configuración del Cliente de Correo
 	  smtp = {
     	username: 'kodespy@gmail.com',   
-    	password: 'car79los',   
+    	password: '',   
 	    server:   'smtp.gmail.com',  
     	port: 465
   	}
